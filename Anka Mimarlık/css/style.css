@@ -82,3 +82,22 @@ html{
     background-color: #595c72;
     transition: 300ms;
 }
+
+.made-by{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #0e0e0e;
+    color: rgb(180, 180, 180);
+    padding: 1%
+}
+
+.made-by a{
+    color: #fff;
+    text-decoration: none
+}
+
+.made-by a:hover{
+    color: rgb(165, 165, 224);
+    transition: 300ms
+}
