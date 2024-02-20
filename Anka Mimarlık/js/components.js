@@ -14,13 +14,13 @@ function renderMadeBy(){
   
       <div class="nav-bar-left">
         <a href="#home" class="w3-bar-item w3-button h-100">
-          <img class="h-100 animate__animated animate__fadeIn" src="img/logo.png" alt="ankaLogo">
+          <img class="h-100 animate__animated animate__fadeInLeft" src="img/logo.png" alt="ankaLogo">
         </a>
       </div>
   
       
       <!-- Float links to the right. Hide them on small screens -->
-      <div class="w3-right w3-hide-small nav-bar-right flex animate__animated animate__fadeIn">
+      <div class="w3-right w3-hide-small nav-bar-right flex animate__animated animate__slideInRight">
         <a href="#projects" class="w3-bar-item w3-button">Projeler</a>
         <a href="#about" class="w3-bar-item w3-button">Hakkımızda</a>
         <a href="#contact" class="w3-bar-item w3-button">İletişim</a>

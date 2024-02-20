@@ -109,12 +109,3 @@ button{
     color: rgb(100, 167, 233);
     transition: 300ms
 }
-
-/* This only changes this particular animation duration */
-.animate__animated.animate__fadeInLeft {
-    --animate-duration: 2s
-}
-
-.animate__animated.animate__fadeInRight {
-    --animate-duration: 2s
-}
